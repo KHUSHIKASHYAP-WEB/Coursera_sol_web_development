@@ -1,0 +1,92 @@
+body {
+  font-size: 16px;
+  color: black;
+  background-color:pink ;
+  font-family: 'Oxygen', sans-serif;
+
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid white;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#p3{
+  background-color: beige;
+  border:2px solid grey;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding:10px;
+}
+#p1{
+  background-color: beige;
+  border:2px solid grey;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  padding:10px;
+}
+#p2{
+  background-color: beige;
+  border:2px solid grey;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  padding:10px;
+}
+
+h1{
+	margin-left:0px;
+    text-shadow: 1px 1px 1px #222;
+	padding:0px;
+	color:black;
+	font-size:1.4em;
+}
+#header-nav {
+  background-color:beige;
+  border-radius: 0;
+  border: 0;
+  margin: 0px;
+}
+h2{
+	color:black;
+}
+.navbar-brand {
+
+  padding:10px;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: Comic Sans MS;
+  color: black;
+  font-size: 1.7em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  /*padding:10px;*/
+  line-height: .75;
+}
+#main-content{
+	margin-bottom: 30px;
+	font-weight:bold;
+	font-size: .4em;
+	text-shadow: 1px 1px 1px #222;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-header button.navbar-toogle, .navbar-header .icon-bar{
+  border:1px solid black;
+}
+.navbar-header button.navbar-toggle{
+  clear:both;
+  margin-top:-30px;
+}
+.navbar-brand p span { /* Star-K */
+  vertical-align: middle;
+}
+#collapsable-nav a{
+    background-color:pink;
+	color:black;
+	font-weight: bold
+}

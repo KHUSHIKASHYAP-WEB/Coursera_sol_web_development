@@ -93,3 +93,6 @@ h2{
 .navbar-default .navbar-toggle {
     border-color: black;
 }
+#nav-list a:hover {
+  background: #E7E7E7;
+}
